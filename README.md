@@ -1,2 +1,3 @@
 # forMySelf
-Extraordinary projects go here
+Extraordinary projects go here.
+Periodical updates too.
